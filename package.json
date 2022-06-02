@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/daniel-souza/integracao-continua#readme",
   "dependencies": {
-    "jest": "^28.1.0"
+    "jest": "^28.1.0",
+    "scanf": "^1.1.2"
   }
 }
