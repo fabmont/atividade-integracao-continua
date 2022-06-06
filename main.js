@@ -5,7 +5,9 @@ const math = require('./math');
 const operacoes = ['','+','-','*', '/'];
 
 let opcao;
+
 let resultado = 0;
+
 let numero;
 do {
     console.clear();
